@@ -1,6 +1,6 @@
 # instagram_clone
 
-A new Flutter project.
+Esse projeto esta servindo de aprendizado, estou estruturando a logica de como o instagram funciona para ir clonando aos poucos.
 
 ## Getting Started
 
