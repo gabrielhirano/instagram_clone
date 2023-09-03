@@ -1,16 +1,8 @@
 # instagram_clone
 
-A new Flutter project.
+Esse projeto esta servindo de aprendizado, estou estruturando a logica de como o instagram funciona para ir clonando aos poucos.
 
-## Getting Started
+## Decisões
 
-This project is a starting point for a Flutter application.
+Irei utilizar o fire base como banco de imagens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
